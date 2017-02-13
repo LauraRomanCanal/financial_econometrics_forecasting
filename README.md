@@ -1,1 +1,3 @@
-# financial_econometrics_forecasting
+Financial Econometrics Forecasting Competition
+
+Team ######
